@@ -1,2 +1,4 @@
 # Virtual environment
 renv/
+__pycache__/
+checkpoints/
